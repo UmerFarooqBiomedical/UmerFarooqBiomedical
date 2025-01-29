@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UmerFarooqBiomedical
 - 👀 I’m interested in developing different Python projects with Python programming language.
-- 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on any Python-related project.
 - 📫 You can reach me through my email address: farooq1564@gmail.com
 - Portfolio website: www.pythonwala.com (Not online - Under construction)
